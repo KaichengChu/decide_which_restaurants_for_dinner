@@ -1,0 +1,8 @@
+torch
+transformers
+accelerate
+langchain
+langchain_huggingface
+selenium
+webdriver-manager
+beautifulsoup4
