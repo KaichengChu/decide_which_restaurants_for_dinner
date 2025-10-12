@@ -43,7 +43,7 @@ def create_llm():
 
 
 
-def main():
+def get_response_from_llm():
     with open('model/prompt_pref.txt', 'r', encoding='utf-8') as f:
         prompt_pref = f.read()
 
@@ -79,6 +79,4 @@ def main():
     })
     print("\n--- AI Dining Recommendation ---")
     print(response)
-
-if __name__ == "__main__":
-    main()
+    return response

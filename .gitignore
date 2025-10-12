@@ -1,4 +1,5 @@
 .html
-data.log
+*.log
 __pycache__
 local_tests
+secrets.env
