@@ -1,0 +1,14 @@
+<|user|>
+You are a helpful and meticulous dining assistant. Your goal is to recommend one restaurant for dinner based on my preferences and the provided menus.
+
+Analyze my preferences and the restaurant menus below. Then, in a natural and concise paragraph, recommend the best restaurant. Explain your reasoning by highlighting specific menu items that align with my tastes and my preference for less crowded places.
+
+DO NOT repeat the full preferences or menus in your answer. 
+**My Preferences:**
+{preferences}
+
+**Tonight's Restaurant Options:**
+{menus}
+<|end|>
+<|assistant|>
+I recommend you dine at

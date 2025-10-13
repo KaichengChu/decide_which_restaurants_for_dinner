@@ -1,0 +1,7 @@
+restaurants_url:
+  DE_NEVE_URL: "https://menu.dining.ucla.edu/restaurant/de-neve"
+  BRUIN_PLATE_URL: "https://menu.dining.ucla.edu/restaurant/bruin-plate"
+  EPICURIA_URL: "https://menu.dining.ucla.edu/restaurant/epicuria"
+
+email:
+  sender_email: "chukaicheng1@gmail.com"
